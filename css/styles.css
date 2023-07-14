@@ -1,4 +1,9 @@
-
+.imagen_b{
+    display: block !important;
+}
+.imagen_c{
+    display: block !important;
+}
 *{
     margin: 0px;
     padding: 0px;
